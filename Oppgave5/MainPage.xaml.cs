@@ -26,5 +26,10 @@ namespace Oppgave5
         {
             this.InitializeComponent();
         }
+
+        private void button_Copy_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
